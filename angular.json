@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "angular-route"
+  "defaultProject": "angular-route",
+  "cli": {
+    "analytics": false
+  }
 }
