@@ -36,10 +36,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ### 🎲 Rodando
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/rlucilio/estudo-angular-route.git>
+$ git clone https://github.com/rlucilio/study-angular-route.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd estudo-angular-route
+$ cd study-angular-route
 
 # Instale as dependências
 $ npm install
